@@ -1,0 +1,12 @@
+{
+    "perl" : "6.d",
+    "name" : "DB::Schema",
+    "version" : "1.0.0",
+    "description" : "Relational database schema representation.",
+    "authors" : [ "Paweł bbkr Pabian" ],
+    "provides" : {
+        "DB::Schema" : "lib/DB/Schema.rakumod"
+    },
+    "license" : "Artistic-2.0",
+    "source-url" : "git://github.com/bbkr/DB_Schema.git"
+}
